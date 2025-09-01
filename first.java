@@ -1,5 +1,12 @@
-class first {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class main
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		System.out.println("Hello World! in JAVA");
+	}
 }
+
